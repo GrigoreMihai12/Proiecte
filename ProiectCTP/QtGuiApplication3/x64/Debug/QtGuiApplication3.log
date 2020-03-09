@@ -1,0 +1,21 @@
+﻿  Bus.cpp
+  Client.cpp
+  Console.cpp
+  Controller.cpp
+  LoggedInWindow.cpp
+  main.cpp
+  QtGuiApplication3.cpp
+  testBus.cpp
+  testClient.cpp
+  testController.cpp
+  testRepo.cpp
+  testRepoFile.cpp
+  testTicket.cpp
+  Ticket.cpp
+  qrc_QtGuiApplication3.cpp
+  moc_QtGuiApplication3.cpp
+  moc_SortNrWindow.cpp
+  moc_mainWindowGUI.cpp
+  moc_FinishBuy.cpp
+  moc_SortNr1Window.cpp
+  QtGuiApplication3.vcxproj -> C:\Users\student\source\repos\QtGuiApplication3\x64\Debug\QtGuiApplication3.exe
